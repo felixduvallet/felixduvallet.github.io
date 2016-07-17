@@ -3,12 +3,12 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
+permalink:          /blog/:year/:month/:day/:title/
 
 # Setup
 title:            Felix Duvallet
 tagline:          'Roboticist'
-description:      'Robotics. Climbing. Mountains.'
+description:      'Robots. Climbing. Mountains.'
 url:              http://www.felixd.com
 baseurl:          /
 
@@ -17,6 +17,7 @@ author:
   url:            http://www.felixd.com
 
 paginate:         1
+paginate_path: "/blog/page:num"
 
 # Custom vars
 version:          1.0
