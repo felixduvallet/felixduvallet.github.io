@@ -8,7 +8,7 @@ permalink:          /blog/:year/:month/:day/:title/
 # Setup
 title:            Felix Duvallet
 tagline:          'Roboticist'
-description:      'Robots. Climbing. Mountains.'
+description:      'Robotics, Machine Learning, and Mountains.'
 url:              http://www.felixd.com
 baseurl:          /
 
