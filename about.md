@@ -3,30 +3,27 @@ layout: page
 title: About Me
 ---
 
-I am a robotics researcher.
+I am a roboticist working at the intersection of imitation learning, planning and decision-making, and machine learning.
+If it's a challenging problem that would make robots more useful for someone out there, I am most likely interested.
 
-### Research
+I was a postdoctoral fellow at the Ecole Polytechnique Federale de Lausanne (EPFL) in the Learning Algorithms and Systems Laboratory, working with Prof. Aude Billard.
 
-#### Human-Robot Handovers
-
-#### Following natural language directions in unknown environments
-
-Generating maps from language
-
-#### Imitation Learning for Multi-Robot coordination
+I completed a PhD in Robotics at [Carnegie Mellon University](www.ri.cmu.edu).
+My research focused on applying imitation learning techniques to difficult decision-making problems in robotics.
+My thesis was on getting robots to understand natural-language directions in unstructured unknown environments.
 
 #### Collaborators, past and present.
 
 I've been lucky to work with some amazing people, listed below in (roughly) most-to-least recent order below.
 
-At EPFL, I am working with
+At EPFL, I was working with
 [José Medina](https://scholar.google.com/citations?user=nLMmnkYAAAAJ&hl=en),
 [Klas Kronander](http://kronander.ch/), and
 [Aude Billard](http://lasa.epfl.ch/people/member.php?SCIPER=115671) along with other members of the
 [Learning Algorithms and Systems Laboratory](http://lasa.epfl.ch/) (LASA).
 
-During my time at CMU, I worked with
-[Tony Stentz](http://www.ri.cmu.edu/person.html?type=publications&person_id=299),
+During my time at CMU, I worked with my advisor
+[Tony Stentz](http://www.ri.cmu.edu/person.html?type=publications&person_id=299), and also
 [Drew Bagnell](http://www.ri.cmu.edu/person.html?person_id=689),
 [Tom Kollar](http://www.tkollar.com/), and
 [Manuela Veloso](https://www.cs.cmu.edu/~mmv/),
@@ -36,7 +33,7 @@ as well as researchers from
 [Tom Howard](http://www.ece.rochester.edu/~th003j/), and
 [Sachi Hemachandra](http://people.csail.mit.edu/sachih/home/?page_id=14).
 
-I also spent a year in Australia at CSIRO, working primarily with
+Before starting graduate school I spent one year in Australia at CSIRO, working primarily with
 [Ash Tews](https://theconversation.com/profiles/ashley-tews-19879)
 and other members of the
 [Autonomous Systems Lab](https://confluence.csiro.au/display/ASL/Autonomous+Systems).
