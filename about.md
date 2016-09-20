@@ -8,7 +8,7 @@ If it's a challenging problem that would make robots more useful for someone out
 
 I was a postdoctoral fellow at the Ecole Polytechnique Federale de Lausanne (EPFL) in the Learning Algorithms and Systems Laboratory, working with Prof. Aude Billard.
 
-I completed a PhD in Robotics at [Carnegie Mellon University](www.ri.cmu.edu).
+I completed a PhD in Robotics at [Carnegie Mellon University](http://www.ri.cmu.edu).
 My research focused on applying imitation learning techniques to difficult decision-making problems in robotics.
 My thesis was on getting robots to understand natural-language directions in unstructured unknown environments.
 
