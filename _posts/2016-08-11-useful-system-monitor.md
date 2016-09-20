@@ -1,6 +1,8 @@
 ---
 layout: post
-title: An awesome system monitor.
+title: glances, an awesome system monitor.
+category: useful
+tags: monitor, link
 ---
 
 I found a really nice system monitor called [Glances](http://nicolargo.github.io/glances/):
