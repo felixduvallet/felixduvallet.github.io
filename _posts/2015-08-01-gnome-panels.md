@@ -11,5 +11,4 @@ title: Multi-monitor gnome panels
 4. Drag the bar to the desired screen and position.
 5. Check the “Expand” option in the “Panel Properties” window and click “Close”.
 
-Source:
-http://chrisjean.com/2009/11/03/move-gnome-panels-to-a-different-monitor-in-ubuntu/
+[Source](http://chrisjean.com/2009/11/03/move-gnome-panels-to-a-different-monitor-in-ubuntu/)

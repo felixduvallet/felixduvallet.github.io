@@ -3,6 +3,6 @@ layout: post
 title: Emacs visual-line mode
 ---
 
-This will add visual-line mode (wrap) to any file.
+This emacs header will add visual-line mode (wrap) to any file.
 
--*- mode:visual-line -*-
+    -*- mode:visual-line -*-
