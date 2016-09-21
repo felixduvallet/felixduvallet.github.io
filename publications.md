@@ -20,48 +20,59 @@ J. Oh, T. Howard, M. Walter, D. Barber, M. Zhu, S. Park, A. Suppe, L. Navarro-Se
 *International Joint Conference on Artificial Intelligence*, 2016.
 Abdeslam Boularias, Felix Duvallet, Jean Oh, Anthony Stentz.
 **Best paper track.**
+[[PDF](/pubs/2015-rcta-aaai.pdf)]
 
 1. **Learning Models for Following Natural Language Directions in Unknown Environments.**
 *International Conference on Robotics and Automation (ICRA)*, 2015.
 Sachithra Hemachandra, Felix Duvallet, Thomas Howard, Nicholas Roy, Anthony Stentz, Matthew R. Walter.
+[[PDF](/pubs/2015-hemachandra-icra.pdf)]
 
 1. **Grounding Spatial Relations for Outdoor Robot Navigation.**
 *International Conference on Robotics and Automation (ICRA)*, 2015.
 Abdeslam Boularias, Felix Duvallet, Jean Oh and Anthony Stentz.
 **Best Cognitive Robotics paper award.**
+[[PDF](/pubs/2015-boularias-icra.pdf)]
 
 1. **Inferring Maps and Behaviors from Natural Language Instructions.**
 *International Symposium on Experimental Robotics (ISER)*, 2014.
 Felix Duvallet, Matthew R. Walter, Thomas Howard, Sachithra Hemachandra, Jean Oh, Seth Teller, Nicholas Roy, Anthony Stentz.
+[[PDF](/pubs/2014-duvallet-iser.pdf)]
 
 1. **Imitation Learning for Natural Language Direction Following through Unknown Environments.**
 *International Conference on Robotics and Automation (ICRA)*, 2013.
 Felix Duvallet, Thomas Kollar, Anthony Stentz.
 **Best Cognitive Robotics paper nominee.**
+[[PDF](/pubs/2013-directions-ICRA.pdf)]
 
 1. **Imitation Learning for Task Allocation.**
 *International Conference on Intelligent Robots and Systems (IROS)*, 2010.
 Felix Duvallet, Anthony Stentz.
+[[PDF](/pubs/2010-imitation_task_alloc-IROS.pdf)]
 
 1. **WiFi Localization in Industrial Environments Using Gaussian Processes.**
 *International Conference on Intelligent Robots and Systems (IROS)*, 2008.
 Felix Duvallet, Ashley Tews.
+[[PDF](/pubs/2008-WiFi-IROS.pdf)]
 
 1. **Developing a Low-Cost Robot Colony.**
 *AAAI Fall Symposium*: Regarding the Intelligence in Distributed Intelligent Systems, 2007.
 Felix Duvallet, J. Kong, E. Marinelli, K. Woo, A. Buchan, B. Coltin, C. Mar, B. Neuman.
+[[PDF](/pubs/2007-Colony-AAAI.pdf)]
 
 1. **Fun With Robots: A Student-Taught Robotics Course.**
 *International Conference on Robotics and Automation (ICRA)*, 2006.
 S. Shamlian, K. Killfoile, R. Kellogg, F. Duvallet.
+[[PDF](/pubs/2006-Fun_With_Robots-ICRA.pdf)]
 
 1. **Relative Localization in Colony Robots.**
 *Proceedings of the National Conference On Undergraduate Research (NCUR)*, 2005.
+[[PDF](/pubs/2005-Colony-NCUR.pdf)]
 
 ### Thesis
 
 **Natural Language Direction Following for Robots in Unstructured Unknown Environments.**
 Felix Duvallet, January 15, 2015
+[[PDF](/pubs/dissertation-felixd.pdf)]
 
 **Abstract:**
 
