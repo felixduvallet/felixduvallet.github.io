@@ -329,17 +329,20 @@ tbody tr:nth-child(odd) th {
  */
 
 .page,
+.archive,
 .post {
   margin-bottom: 4em;
 }
 
 /* Blog post or page title */
 .page-title,
+.archive-title,
 .post-title,
 .post-title a {
   color: #303030;
 }
 .page-title,
+.archive-title,
 .post-title {
   margin-top: 0;
 }
