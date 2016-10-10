@@ -10,7 +10,7 @@ title:            Felix Duvallet
 tagline:          'Roboticist'
 description:      'Robotics, Machine Learning, and Mountains.'
 url:              http://www.felixd.com
-baseurl:          /
+baseurl:          "/"
 
 author:
   name:           'Felix Duvallet'
