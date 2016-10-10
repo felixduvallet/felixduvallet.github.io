@@ -21,6 +21,9 @@ author:
 paginate:         3
 paginate_path: "/blog/page:num"
 
+# Paste this into a blog post to separate the excerpt from the main content.
+excerpt_separator: "<!--excerpt-->"
+
 # Custom vars
 version:          1.0
 
