@@ -9,11 +9,10 @@ I found a really nice system monitor called [Glances](http://nicolargo.github.io
 
 ![screenshot](http://glances.readthedocs.io/en/latest/_images/screenshot-wide.png "Glances screenshot")
 
-Installing is super simple:
+Installation is super simple:
 
     $ sudo pip install glances
     $ glances
-
 
 You can also run this in web mode, which is useful for visualizing the system load on a remote server somewhere:
 
