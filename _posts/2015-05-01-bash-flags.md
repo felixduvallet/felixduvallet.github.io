@@ -5,6 +5,8 @@ title: Flags in bash
 
 The best way to explain is to show an example.
 
+<!--excerpt-->
+
 {% highlight bash %}
 
 #!/bin/bash

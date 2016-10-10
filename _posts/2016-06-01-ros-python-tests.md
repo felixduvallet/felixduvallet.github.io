@@ -5,6 +5,10 @@ title: Unittesting ROS in python
 
 Setting up unit tests for ROS python modules is a little tricky, but once it's in place you can easily automate testing of ros nodes.
 
+Here is a very brief reference.
+
+<!--excerpt-->
+
 ### Imports
 
 import must look like:

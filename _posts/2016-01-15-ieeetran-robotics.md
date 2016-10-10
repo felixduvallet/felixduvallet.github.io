@@ -3,6 +3,19 @@ layout: post
 title: Using the IEEEtran class for Robotics conferences
 ---
 
+IEEE-RAS provides some LaTeX template files for conferences but:
+
+ - The IEEEtran.cls file has somehow been renamed ieeeconf.cls, which
+   clashes with another package actually named IEEEconf and is
+   confusing (IEEEconf is a separate class used for IEEE Computer
+   Society manuscripts).
+ - The version provided is 1.6b, instead of 1.7
+ - The sample document uses deprecated commands (\overrideIEEEmargins)
+
+This post is about getting your document to work with the current release of IEEEtran.
+
+<!--excerpt-->
+
 -----------------------------------------------------------
 
 Disclaimer: These instructions are primarily for personal reference,
@@ -15,17 +28,7 @@ update this guide.
 
 -----------------------------------------------------------
 
-IEEE-RAS provides some LaTeX template files for conferences but:
-
- - The IEEEtran.cls file has somehow been renamed ieeeconf.cls, which
-   clashes with another package actually named IEEEconf and is
-   confusing (IEEEconf is a separate class used for IEEE Computer
-   Society manuscripts).
- - The version provided is 1.6b, instead of 1.7
- - The sample document uses deprecated commands (\overrideIEEEmargins)
-
-To get your document to work with the current release of IEEEtran, the
-following fixes may be helpful (see disclaimer above):
+Add these to your preamble:
 
 {% highlight latex %}
 \newcommand{\CLASSINPUTtoptextmargin}{19mm}
