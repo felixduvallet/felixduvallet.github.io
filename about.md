@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-I am a roboticist working at the intersection of imitation learning, planning and decision-making, and machine learning.
+I am a roboticist working at the intersection of machine learning, planning and decision-making, and imitation learning.
 If it's a challenging problem that would make robots more useful for someone out there, I am most likely interested.
 
 I was a postdoctoral fellow at the Ecole Polytechnique Federale de Lausanne (EPFL) in the Learning Algorithms and Systems Laboratory, working with Prof. Aude Billard.
