@@ -29,3 +29,6 @@ version:          1.0
 
 github:
   repo:           https://github.com/felixduvallet
+
+gems:
+  - jekyll-sitemap
