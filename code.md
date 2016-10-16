@@ -11,11 +11,16 @@ For the non-useful ones, see my [github](https://www.github.com/felixduvallet) p
 
 #### Travis-CI for ROS
 
+![alt-text][ros-travis]
+
 I wrote a travis script for running continuous integration on any ROS package.
 The end result is that each time you commit something on github, Travis can install ROS on a brand new virtual machine, clone your package, resolve all dependencies, build it (using catkin_make) and test it.
 This work is now used by many other researchers world-wide to produce better code running on robots.
 
 [https://github.com/felixduvallet/ros-travis-integration](https://github.com/felixduvallet/ros-travis-integration)
+
+
+[ros-travis]: /assets/projects/ros-travis.png
 
 #### Allegro Hand ROS bindings
 
