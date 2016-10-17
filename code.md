@@ -50,12 +50,12 @@ This can save considerable time by short-cutting the pre-processing step (which 
 
 ##### Other contributions
 
-I have made very minor (sometimes trivial) contributions to many more ROS packages, which I list here for my own reference:
+I have made very minor (sometimes trivial) contributions to many more ROS packages, which I list here primarily for my own reference:
 
   * [audio_common](https://github.com/ros-drivers/audio_common)
   * [ros_buildfarm](https://github.com/ros-infrastructure/ros_buildfarm)
   * [gazebo_ros_demos](https://github.com/ros-simulation/gazebo_ros_demosros)
   * [mocap_optitrack](https://github.com/ros-drivers/mocap_optitrack)
-  * [pocketsphinx](https://github.com/felixduvallet/pocketsphinx)
+  * [pocketsphinx](https://github.com/felixduvallet/pocketsphinx) My fork adds support for ROS AudioData message types.
   * [rospy](https://github.com/ros/ros_comm/)
   * [rqt_ez_publisher](https://github.com/OTL/rqt_ez_publisher)
