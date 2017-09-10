@@ -6,7 +6,11 @@ title: About Me
 I am a roboticist working at the intersection of machine learning, planning and decision-making, and imitation learning.
 If it's a challenging problem that would make robots more useful for someone out there, I am most likely interested.
 
-I was a postdoctoral fellow at the Ecole Polytechnique Federale de Lausanne (EPFL) in the Learning Algorithms and Systems Laboratory, working with Prof. Aude Billard.
+I am currently an engineer at Apple in the Special Projects Group.
+
+Before that, I was a postdoctoral fellow at the Ecole Polytechnique Federale de
+Lausanne (EPFL) in the Learning Algorithms and Systems Laboratory, working with
+Prof. Aude Billard.
 
 I completed a PhD in Robotics at [Carnegie Mellon University](http://www.ri.cmu.edu).
 My research focused on applying imitation learning techniques to difficult decision-making problems in robotics.
