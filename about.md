@@ -32,7 +32,7 @@ During my time at CMU, I worked with my advisor
 [Tom Kollar](http://www.tkollar.com/), and
 [Manuela Veloso](https://www.cs.cmu.edu/~mmv/),
 as well as researchers from
-[Nicholas Roy](http://groups.csail.mit.edu/rrg/)'s robust robotics group, principally
+[Nicholas Roy](http://groups.csail.mit.edu/rrg/)'s Robust Robotics Group at MIT, principally
 [Matthew Walter](http://ttic.uchicago.edu/~mwalter/),
 [Tom Howard](http://www.ece.rochester.edu/~th003j/), and
 [Sachi Hemachandra](http://people.csail.mit.edu/sachih/home/?page_id=14).
