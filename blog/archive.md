@@ -8,12 +8,15 @@ title: Blog Archive
 
 ## Disclaimer
 
-I use github-page's blogging capability primarily as a self-reference space for odd memos and random documentation, so that I can safely forget useful things I come across (until the next time I need them).
-If I happen to do something interesting and worth sharing I've been known to write that up, but it's pretty rare.
+I use this blog primarily as a self-reference space for useful bits of
+information I find, so that I can safely forget them until the next time I need
+them.  If I happen to do something interesting and worth sharing I've been known
+to write that up, but it's pretty rare.
 
-I've decided to make all my memos accessible, even though (as you can see from the lack of formatting) they are primarily intended for an audience of myself.
+As you can tell from the bare bones notes, the intended audience is myself.
 
-If these are helpful to you, or (more likely) if you have a better way to do something, please let me know.
+However, if these are helpful to you or (more likely) if you have a better way
+to do something, please let me know.
 
 ## Blog Posts
 

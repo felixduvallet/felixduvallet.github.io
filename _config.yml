@@ -7,13 +7,13 @@ permalink:          /blog/:title/
 
 # Setup
 title:            Felix Duvallet
-tagline:          'Roboticist'
-description:      'Robotics, Machine Learning, and Mountains.'
-url:              http://www.felixd.com
+tagline:          "Roboticist"
+description:      "Robotics, Machine Learning, and Mountains."
+url:              "http://www.felixd.com"
 baseurl:          "/"
 
 author:
-  name:           'Felix Duvallet'
+  name:           "Felix Duvallet"
   url:            http://www.felixd.com
   github:         https://github.com/felixduvallet/
   linkedin:       https://www.linkedin.com/in/felixduvallet
@@ -28,7 +28,7 @@ excerpt_separator: "<!--excerpt-->"
 version:          1.0
 
 github:
-  repo:           https://github.com/felixduvallet
+  repo:           https://github.com/felixduvallet/felixduvallet.github.io
 
 gems:
   - jekyll-sitemap
