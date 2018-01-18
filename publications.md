@@ -11,10 +11,12 @@ You can also find me on [google scholar](https://scholar.google.ch/citations?use
 1. **A Human-Inspired Controller for Fluid Human-Robot Handovers.**
 *International Conference on Humanoid Robots*, 2016.
 Jose Medina, Felix Duvallet, Murali Karnam, Aude Billard.
+[[PDF](/pubs/2016-humanoids.pdf)]
 
 1. **Integrated Intelligence for Human Robot Teams.**
 *International Symposium on Experimental Robotics (ISER)*, 2016.
 J. Oh, T. Howard, M. Walter, D. Barber, M. Zhu, S. Park, A. Suppe, L. Navarro-Serment, F. Duvallet, A. Boularias, O. Romero, J. Vinokrov, T. Keegan, R. Dean, C. Lennon, B. Bodt, M. Childers, J. Shi, K. Daniilidis, N. Roy, C. Lebiere, M. Hebert, and A. Stentz.
+[[PDF](/pubs/2016-iser.pdf)]
 
 1. **Learning Qualitative Spatial Relations for Robotic Navigation.**
 *International Joint Conference on Artificial Intelligence*, 2016.
